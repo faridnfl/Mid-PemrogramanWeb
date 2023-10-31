@@ -84,3 +84,22 @@ searchInput.addEventListener('input', function() {
 }
 
 tampilkanDataMobil();
+
+function initMap() {
+    const mapOptions = {
+        zoom: 15,
+        center: { lat: -5.119111337433604, lng: 119.52636779808175 }, 
+        mapTypeControl: false, 
+        streetViewControl: false,
+        fullscreenControl: false, 
+        draggable: false 
+    };
+
+    const map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+    const rentalLocation = new google.maps.Marker({
+        position: { lat: -5.119111337433604, lng: 119.52636779808175 }, 
+        map: map,
+        title: 'Celebes Rent Car'
+    });
+}
