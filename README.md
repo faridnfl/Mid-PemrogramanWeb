@@ -1,18 +1,18 @@
 # Rental Mobil Makassar
-Ini adalah aplikasi Rental Mobil Makassar, sebuah aplikasi sederhana untuk mencari dan menyewa mobil di area Makassar. Aplikasi ini memungkinkan pengguna untuk mencari mobil berdasarkan model, mengurutkan hasil pencarian, dan melihat lokasi rental mobil di peta.
+Ini adalah website Rental Mobil Makassar untuk mencari dan menyewa mobil di area Makassar. Website ini memungkinkan pengguna untuk mencari mobil berdasarkan model, mengurutkan hasil pencarian, dan melihat lokasi rental mobil di peta.
 
 ## Ide
 Website ini dapat memberikan kemudahan bagi orang yang ingin menyewa mobil di Makassar yang dimana menyediakan informasi tentang berbagai jenis mobil yang tersedia, harga, dan lokasi rental mobil. Pengguna dapat dengan mudah mencari mobil yang sesuai dengan kebutuhan mereka
 
 ## Fitur
-Aplikasi ini memiliki beberapa fitur utama, termasuk:
+Website ini memiliki beberapa fitur utama, termasuk:
 - Pencarian mobil.
 - Pengurutan hasil pencarian berdasarkan abjad, harga terendah, dan harga tertinggi.
 - Informasi detail tentang setiap mobil, termasuk gambar, harga, keterangan, dan area rental.
 - Peta interaktif yang menunjukkan lokasi rental mobil di Makassar.
 
 ## Pengembangan
-- Aplikasi ini memanfaatkan HTML untuk membuat struktur halaman, CSS untuk merancang tampilan, dan JavaScript untuk mengatur interaksi pengguna.
+- Website ini memanfaatkan HTML untuk membuat struktur halaman, CSS untuk merancang tampilan, dan JavaScript untuk mengatur interaksi pengguna.
 - Penggunaan Google Maps API untuk menampilkan lokasi rental mobilnya
 - Menggunakan local storage untuk menyimpan data mobil di Javascript
 
